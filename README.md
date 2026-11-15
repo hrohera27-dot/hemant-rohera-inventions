@@ -2,6 +2,8 @@
 
 **Hemant Rohera** (Hemant Karamchand Rohera) is an engineer and inventor based in Pune, India. He founded Rohera Healthcare & Technology (eMedica) and Rohera Emerging Energies, and has more than 29 years of research and development experience in bioelectronics, energy storage and automotive power systems.
 
+Archived on Zenodo: [DOI 10.5281/zenodo.24245995](https://doi.org/10.5281/zenodo.24245995).
+
 This repository is a short, citable index of his three granted patent families, with their drawing sheets. Each section links to a fuller explanation on [hemantrohera.com](https://hemantrohera.com/).
 
 | Invention | US patent | Grants |
