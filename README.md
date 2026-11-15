@@ -45,6 +45,7 @@ OMNIA Drive is a vehicle power generating system. FIG. 1 shows the generators th
 
 - [Who is Hemant Karamchand Rohera?](https://hemantrohera.com/who-is-hemant-karamchand-rohera.html)
 - [Patent register](https://hemantrohera.com/patent-register.html) · [All 30 patent drawing sheets](https://hemantrohera.com/hemant-rohera-patent-drawings.html)
+- Patent drawings, all 30 sheets in one PDF: [hemant-rohera-patent-drawings-30-sheets.pdf](hemant-rohera-patent-drawings-30-sheets.pdf)
 - [ORCID 0009-0005-3275-1743](https://orcid.org/0009-0005-3275-1743) · [LinkedIn](https://www.linkedin.com/in/hemant-k-rohera-a8327323/) · [Medium](https://medium.com/@hrohera27) · [Substack](https://hemantrohera.substack.com/) · [GitHub profile](https://github.com/hrohera27-dot)
 
 A granted patent describes an invention and its claims set the scope; it is not a measurement of how a product performs.
